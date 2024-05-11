@@ -1,6 +1,6 @@
 // VARIABLES //
 
-let username = 'KA';
+let username;
 let myName = 'Khasia Alim';
 
 let age = 12;
@@ -30,5 +30,3 @@ alert(separate);
 // ---- //
 
 document.write('Yah! I can write HTML content through JavaScript', '<br>', myName, '<br>', age + ageSyntax, '<br>', certification, '<br>', 'PIZZA', '<br>', 'PIZZ', '<br>', 'PIZ', '<br>', 'PI', '<br>', 'P', '<br>', 'My email Address is ' + email, '<br>', book, '<br>', separate);
-
-// ---- //
