@@ -32,3 +32,8 @@ body {
     border-style: solid;
     border-color: var(--MAIN-COLOR-1);
 }
+
+a {
+    text-decoration: none;
+    color: var(--MAIN-COLOR-1);
+}
