@@ -41,4 +41,21 @@ a {
     padding: 10px 40px;
     text-decoration: none;
     user-select: none;
-  }
+}
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.box {
+    cursor: pointer;
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+.box:hover {
+    border-style: solid;
+    border-color: var(--MAIN-COLOR-1);
+}
