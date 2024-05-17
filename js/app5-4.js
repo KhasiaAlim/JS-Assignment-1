@@ -2,7 +2,7 @@
 // VARIABLES & FUNCTIONS-4 //
 
 let table = prompt('Table of');
-document.write('<h4>Tables</h4>', '<br/>')
+document.write('<h4>Table</h4>', '<br/>')
 document.write('Table of ' + table, '<br/>');
 document.write(table + 'x' + 1 + '=' + (table * 1), '<br/>');
 document.write(table + 'x' + 2 + '=' + (table * 2), '<br/>');
